@@ -1,0 +1,1 @@
+.image.fit,.image.fit img,.image.left img,.image.right img{width:100%}.image{border-radius:3px;border:0;display:inline-block;position:relative}.image img{border-radius:3px;display:block}.image.left{float:left;margin:0 2em 2em 0;top:.25em}.image.right{float:right;margin:0 0 2em 2em;top:.25em}.image.left,.image.right{max-width:40%}.image.fit{display:block;margin:0 0 2em}
